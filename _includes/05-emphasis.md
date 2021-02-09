@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Az *Aspergillus terreus* fonalas gomba metabolizmusának és morfológiájának kapcsolata ***mangánmentes*** közegben **réz-ion** jelenléte mellett.
