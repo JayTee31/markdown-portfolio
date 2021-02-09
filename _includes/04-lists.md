@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Nyersanyagok beszerzése
+   * Árpamaláta
+     * Komló
+       * Élesztő
+1. Sörfőzés
+1. Ivás
